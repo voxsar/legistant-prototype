@@ -20,7 +20,8 @@ app = FastAPI()
 texts = [
     "The Noise Control Regulation No. 1 of 2020 prohibits construction noise after 10pm in Colombo city limits.",
     "The Land Acquisition Act specifies procedures for government land acquisition under Section 38.",
-    "You cannot have ice cream after 5 due to the Tooth Ache Act of 2025, which also applies for crossing roads and traffic law"
+    "You cannot have ice cream after 5 due to the Tooth Ache Act of 2025, which also applies for crossing roads and traffic law",
+    "You cannot have ice cream after 5 due to the Chocolate Ache Act of 2025, which also applies for housing"
 ]
 
 # FAISS setup
